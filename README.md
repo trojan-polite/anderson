@@ -21,3 +21,7 @@ $ npm start # this should launch a browser with http://localhost:3000
 
 ## Code Sandbox
 [Edit code here](https://codesandbox.io/s/github/Sach97/react-stockcharts-netlify)
+
+## Deployed example
+
+[Deployed example available here](https://kind-montalcini-c8f14f.netlify.com/)
