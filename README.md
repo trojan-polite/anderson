@@ -16,4 +16,4 @@ $ npm start # this should launch a browser with http://localhost:3000
 
 ## Deploy 
 
-https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Sach97/react-stockcharts-netlify)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Sach97/react-stockcharts-netlify)
